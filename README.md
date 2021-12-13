@@ -1,6 +1,11 @@
 # CN_Practical_Exam
 Practical Exam of Computer Networks Set 1 
 
+Name: Sakshi
+Exam roll no: 20020570029
+Ramanujan College, DU
+
+
 Ques 1
 Simulate Cyclic Redundancy Check (CRC) error Detection Algorithm For Noisy Channel.
 
